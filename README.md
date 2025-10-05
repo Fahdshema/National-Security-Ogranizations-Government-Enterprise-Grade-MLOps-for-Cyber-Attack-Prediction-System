@@ -1,7 +1,7 @@
 # 🛡️ National-Security-Ogranizations-Government-Enterprise-Grade-MLOps-for-Cyber-Attack-Prediction-System
 <img width="690" height="388" alt="image" src="https://github.com/user-attachments/assets/90dcf95c-c3a0-43e8-a0a9-0e4a3d13a744" />
 
-## 📺 Pdf Tutorial
+## 📺 Pdf Explanation
 **link** - Step-by-step guide for setting up and deploying the entire system.
 
 ## 🌟 Project Overview
