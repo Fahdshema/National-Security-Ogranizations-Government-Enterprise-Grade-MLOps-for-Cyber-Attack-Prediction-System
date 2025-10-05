@@ -1,7 +1,7 @@
 # 🛡️ ML Cyber Attack Prediction System
 
-## 📺 Video Tutorial
-**[Watch the Complete Video Tutorial on YouTube](https://youtu.be/3-mH1ynRf7U)** - Step-by-step guide for setting up and deploying the entire system.
+## 📺 Pdf Tutorial
+**link** - Step-by-step guide for setting up and deploying the entire system.
 
 ## 🌟 Project Overview
 
@@ -323,9 +323,8 @@ This project is part of an educational cyber security initiative.
 - Monitor CloudWatch logs for application errors
 - Consult AWS documentation for service-specific guidance
 
-## 🎓 Educational Purpose
+##  AI-Powered Network Defense for Critical Infrastructure  Purpose for:
 
-This system is designed for educational purposes to demonstrate:
 - Modern cloud-native architecture
 - Machine learning in cybersecurity
 - Infrastructure as Code practices
