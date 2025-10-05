@@ -21,6 +21,17 @@ The **ML Cyber Attack Prediction System** is a comprehensive, cloud-native solut
 The system consists of two main components working in tandem:
 
 ```
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+ NB — Sensitive components omitted
+For security and compliance reasons, the monitor-app and ml-service packages (containing runtime credentials, private keys, or production configuration) are intentionally not included in this repository. The repo contains:
+
+Infrastructure as Code (CloudFormation templates)
+
+CI/CD pipeline definitions (CodeBuild/CodeDeploy configs)
+
+Source code for non-sensitive components and deployment scripts
+
+If you require the full artifacts for testing or review, please request access and I will provide them via a secure channel (private collaborator invite, encrypted artifact, or time-limited download) after verifying identity and purpose.
 ┌─────────────────────────────────────────────────────────────────┐
 │                    ML Cyber Attack Prediction System            │
 ├─────────────────────────────────────────────────────────────────┤
