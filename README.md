@@ -1,5 +1,6 @@
 # 🛡️ National-Security-Ogranizations-Government-Enterprise-Grade-MLOps-for-Cyber-Attack-Prediction-System
 <img width="690" height="388" alt="image" src="https://github.com/user-attachments/assets/90dcf95c-c3a0-43e8-a0a9-0e4a3d13a744" />
+<img width="1200" height="769" alt="image" src="https://github.com/user-attachments/assets/c8284ce7-55dd-434f-9c86-ce8c264299a5" />
 
 
 ## 📺 Pdf Tutorial
